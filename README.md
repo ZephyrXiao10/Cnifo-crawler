@@ -1,4 +1,4 @@
-# Cnifo-crawler
+# Cninfo-crawler
 Use ajax setting up asynchronous transfer environment, fetching all the information needed on cninfo(巨潮资讯). Simple but powerful!
 
 Putting all functions into console and run __main__,
